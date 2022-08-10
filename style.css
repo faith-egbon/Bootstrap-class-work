@@ -1,0 +1,36 @@
+body{background-color: rgb(232, 248, 248);
+
+}
+.log-in a{
+    text-decoration: none;
+    color: black;
+    padding-right: 1rem;
+}
+img{
+    width: 80%;
+}
+.row{
+    margin-top: 3rem;
+}
+.text{
+    padding-left: 7rem;
+    margin-top: 5rem;
+}
+.text h1{
+font-weight: 600;
+}
+.row button{
+    color: white;
+    background-color: black;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+#snap{
+    font-weight: 900;
+}
+.foot{
+    margin-top: 7rem;
+    color: gray;
+    padding-top: 1rem;
+}
